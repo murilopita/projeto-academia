@@ -22,8 +22,9 @@ body{
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
+    background-position-y: 0;
     
-    
+
 }
 
 
